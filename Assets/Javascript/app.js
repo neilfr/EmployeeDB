@@ -25,7 +25,7 @@ $("#submit-route").on("click", function(event) {
     $div.append(fMonthlyRate + " ");
     $div.append(fTotalBilling);
     
-    
+   
    
     $("#employee-database").append($div);
 
